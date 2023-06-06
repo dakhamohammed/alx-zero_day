@@ -1,1 +1,1 @@
-This is my second git learning project
+This is git learning project.
